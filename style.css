@@ -1,0 +1,11 @@
+body{
+    background-image: url(sign_in.png);
+    text-align: left;
+    background-position: center;
+    background-size: cover;
+}
+
+h2{
+    top: 500px;
+    left:500px;
+}
